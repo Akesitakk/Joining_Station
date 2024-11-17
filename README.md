@@ -7,3 +7,5 @@ Our project centers on the **design and development of an automated joining stat
 - Saranya Vichakyotin (65110150)  
 
 This project highlights our ability to design, implement, and test advanced automation solutions, reflecting our technical skills and problem-solving capabilities.
+
+Youtube : https://youtu.be/w-RDAu1gbfc?si=cWbYDgVe6LfnowDN
